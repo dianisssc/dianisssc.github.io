@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: rgb(0, 172, 240); }
 
 
 /* ------------------------------------------------------------------ */
@@ -223,7 +223,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .download .button:hover {
    background: #fff;
-   color: #2B2B2B;
+   color: rgb(43, 43, 43);
 }
 #about .download .button i {
    margin-right: 15px;

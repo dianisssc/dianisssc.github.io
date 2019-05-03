@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-export default class contact extends Component {
+export default class ContactUs extends Component {
   render() {
     let resumeData = this.props.resumeData;
     return (
@@ -12,13 +12,26 @@ export default class contact extends Component {
             </div>
           </div>
           <div className="row">
-            <aside className="eigth columns footer-widgets">
+            {/* <aside className="eigth columns footer-widgets">
               <div className="widget">
-                {/* <h4>Linked in :
+                <h4>Linked in :
                   {resumeData.linkedinId}
-                </h4> */}
+                </h4>
               </div>
-            </aside>
+            </aside> */}
+            <div className="columns contact-details">
+
+<h4>Contact Details</h4>
+<p className="address">
+ <span>{resumeData.name}</span>
+   <br></br>
+    <span>
+   {resumeData.address}
+  </span>
+  <br></br>
+  <span>{resumeData.website}</span>
+  </p>
+</div>
           </div>
         </section>
         );
