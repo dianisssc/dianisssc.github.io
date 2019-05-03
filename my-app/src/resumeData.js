@@ -57,52 +57,52 @@ let resumeData = {
     "work":[
       {
         "CompanyName":"Neulion",
-        "specialization":"IT Customer Support Specialist",
+        "specialization":"IT Client Support Specialist",
         "MonthOfLeaving":"January",
         "YearOfLeaving":"2019",
-        "Achievements":"Trainer ; "
+        "Achievements":"Biligual Representative that helped with the Univision Now app Launch. Assisted customers with billing support for the largest sports organizations in the world such as the NFL, NBA, Unimas and UFC. Provide tier two technical support to customers across various platforms such as ios, android, and web. Interacted with clients to report and resolve web and mobile player issues during live events. "
       },
       {
         "CompanyName":"Paner Bread",
         "specialization":"Catering Coordinator/Marketing",
         "MonthOfLeaving":"June",
         "YearOfLeaving":"2016",
-        "Achievements":"Managed the catering sales for my own cafe, with an achievement goal every month"
+        "Achievements":"Managed the catering sales for my own cafe, achieving to reach higher sales each month with an increase sales rate of 20%"
       }
     ],
     // "skillsDescription":"Sample Skills for display *Not a reflection of my actual abilities*",
-    "skills":[
-      {
-        "skillname":"HTML5"
-      },
-      {
-        "skillname":"CSS"
-      },
-      {
-        "skillname":"ReactJS"
-      }
-    ],
-    "portfolio":[
-      {
-        "name":"InstaCrypto",
-        "description":"InstaCrypto is a group project we worked on. It features API calls to give real-time useful Crypto related data, as well as a SlackBot to relate to the Crypto stock",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
+    // "skills":[
+    //   {
+    //     "skillname":"HTML5"
+    //   },
+    //   {
+    //     "skillname":"CSS"
+    //   },
+    //   {
+    //     "skillname":"ReactJS"
+    //   }
+    // ],
+    "portfolio":[ 
+    {
+      "name":"Guess Game",
+      "description":"The app randomly picks a letter, and the user has to guess which letter the app choose's.",  
+      "imgurl":"images/portfolio/guess.jpg"
+    },
+    {
+        "name":"FIFA Trivia",
+        "description":"Features my ability with Javascript in HTML and CSS.You'll have the ability to test your FIFA soccer knowledge in this trivia game, but hurry you must beat the time!",
+        "imgurl":"images/portfolio/Fifa1.jpg"
+    },
+    {
+      "name":"InstaCrypto",
+      "description":"InstaCrypto is a group project we worked on. It features API calls to give real-time useful Crypto related data, as well as a SlackBot to relate to the Crypto stock",
+      "imgurl":"images/portfolio/crypto.jpg"
+    },
+    {
+        "name":"CRUD Packer",
+        "description":"An application that helps users manage boxes and inventory. Users can input the contents of the box and the application will save that content and generate a barcode with a unique ID. Users can either scan the barcode or input the unique ID in order to see the box’s contents",
+        "imgurl":"images/portfolio/crud.jpg"
+    }
     ],
     "testimonials":[
       {

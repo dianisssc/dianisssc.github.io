@@ -11,29 +11,21 @@ export default class ContactUs extends Component {
               </p>
             </div>
           </div>
-          <div className="row">
-            {/* <aside className="eigth columns footer-widgets">
-              <div className="widget">
-                <h4>Linked in :
-                  {resumeData.linkedinId}
-                </h4>
-              </div>
-            </aside> */}
-            <div className="columns contact-details">
-
-<h4>Contact Details</h4>
-<p className="address">
- <span>{resumeData.name}</span>
-   <br></br>
-    <span>
-   {resumeData.address}
-  </span>
-  <br></br>
-  <span>{resumeData.website}</span>
-  </p>
-</div>
-          </div>
-        </section>
-        );
-  }
-}
+      <div className="row">
+      <div className="columns contact-details">
+        <h4>Contact Details</h4>
+          <p className="address">
+              <span>{resumeData.name}</span>
+                  <br></br>
+                    <span>
+                  {resumeData.address}
+                  </span>
+                  <br></br>
+                  <span>{resumeData.website}</span>
+                  </p>
+      </div>
+           </div>
+                  </section>
+                  );
+            }
+          }
