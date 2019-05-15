@@ -63,7 +63,7 @@ let resumeData = {
         "Achievements":"Biligual Representative that helped with the Univision Now app Launch. Assisted customers with billing support for the largest sports organizations in the world such as the NFL, NBA, Unimas and UFC. Provide tier two technical support to customers across various platforms such as ios, android, and web. Interacted with clients to report and resolve web and mobile player issues during live events. "
       },
       {
-        "CompanyName":"Paner Bread",
+        "CompanyName":"Panera Bread",
         "specialization":"Catering Coordinator/Marketing",
         "MonthOfLeaving":"June",
         "YearOfLeaving":"2016",
