@@ -7,7 +7,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0"
   },
-  "homepage": "http://dianisssc.github.io/relativepath",
+  "homepage": "http://dianisssc.github.io/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
