@@ -1,0 +1,8 @@
+{
+    "apiKey": "3mM44UaBudETDH_VWkqeBDiDaRobZ83dc8uZX",
+    "secret": "VWkxMz2CH9eaMh2x64QmAM",
+    "domain": "d1exploring.com",
+    "records": [
+      {"type": "A", "name": "mysubdomain", "ttl": 600}
+    ]
+  }
