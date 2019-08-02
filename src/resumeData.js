@@ -39,7 +39,7 @@ let resumeData = {
     "education":[
 
       {
-        "UniversityName":"Unversity of Central Florida",
+        "UniversityName":"University of Central Florida",
         "specialization":"Full Stack Web Developer",
         "MonthOfPassing":"May",
         "YearOfPassing":"2019",
@@ -64,10 +64,10 @@ let resumeData = {
       },
       {
         "CompanyName":"Panera Bread",
-        "specialization":"Catering Coordinator/Marketing",
+        "specialization":"Catering Coordinator / Marketing",
         "MonthOfLeaving":"June",
         "YearOfLeaving":"2016",
-        "Achievements":"Managed the catering sales for my own cafe, achieving to reach higher sales each month with an increase sales rate of 20%"
+        "Achievements":"Managed the catering sales for my own cafe, achieving to reach higher sales each month with an increase sales rate."
       }
     ],
     // "skillsDescription":"Sample Skills for display *Not a reflection of my actual abilities*",
