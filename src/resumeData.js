@@ -70,18 +70,18 @@ let resumeData = {
         "Achievements":"Actively supporting management in critical decision-making and event planning initiatives. Apply critical thinking skills toward defining and implementing processes to boost overall operational performance with cafe sales. Attended trainings and seminars to further improve marketing skills"
       }
     ],
-    // "skillsDescription":"Sample Skills for display *Not a reflection of my actual abilities*",
-    // "skills":[
-    //   {
-    //     "skillname":"HTML5"
-    //   },
-    //   {
-    //     "skillname":"CSS"
-    //   },
-    //   {
-    //     "skillname":"ReactJS"
-    //   }
-    // ],
+    "skillsDescription":"Node.Js, Express, JavaScript, jQuery, React.js, Handlebars, Github, MongoDB, MySQL, Firebase, HTML, CSS, Bootstrap, Media Queries, APIs, JSON, REST, AJAX, the command line, computer science fundamentals,",
+    "skills":[
+      // {
+      //   "skillname":"HTML5"
+      // },
+      // {
+      //   "skillname":"CSS"
+      // },
+      // {
+      //   "skillname":"ReactJS"
+      // }
+    ],
     "portfolio":[ 
     {
       "name":"Guess Game",
