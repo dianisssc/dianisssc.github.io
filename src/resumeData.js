@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Dianis Carbajal",
     "role": "Full Stack Developer",
     "linkedinId":"Your LinkedIn Id",
-    "roleDescription": "Offering the ability to assess an organization’s needs and create a complementary, robust web presence. ",
+    "roleDescription": "I make websites and web apps and other fun things and some not so fun things. ",
     "socialLinks":[
         {
           "name":"Dianis Carbajal",
@@ -15,24 +15,24 @@ let resumeData = {
           "url":"https://github.com/dianisssc",
           "className":"fa fa-github"
         },
-        {
-          "name":"skype",
-          "url":"https://twitter.com/Diany99",
-          "className":"fa fa-twitter"
-        },
-        {
-          "name":"Dianis Carbajal",
-          "url":"https://www.instagram.com/dianisssc/",
-          "className":"fa fa-instagram"
-        },
-        {
-          "name":"Dianis Carbajal",
-          "url":"https://www.facebook.com/dianis.carbajal",
-          "className":"fa fa-facebook"
-        },
+        // {
+        //   "name":"skype",
+        //   "url":"https://twitter.com/Diany99",
+        //   "className":"fa fa-twitter"
+        // },
+        // {
+        //   "name":"Dianis Carbajal",
+        //   "url":"https://www.instagram.com/dianisssc/",
+        //   "className":"fa fa-instagram"
+        // },
+        // {
+        //   "name":"Dianis Carbajal",
+        //   "url":"https://www.facebook.com/dianis.carbajal",
+        //   "className":"fa fa-facebook"
+        // },
 
       ],
-    "aboutme":"I am a Full Stack Web Developer, currently diving deeper into Machine Learning. I care deeply about creating world-class, useful and beautiful products that help people and make a difference in technology. I like to be involved at different stages of a digital project, from the seed of the idea, through to sketches, design and even the front-end and WordPress build. This means I can jump in at any stage of a project, or take on the whole project, from design to build.",
+    "aboutme":"Full Stack Web Developer who found a love for programming through IT customer rep. Effective at combining creativity and problem solving to develop user-friendly applications with my experience of over three years as a bilingual representative . I am both passionate about the technology being used and the opportunity to build and work with it. I have a strong understanding of both front end and back end technologies with my coding camp experience. I am currently searching for my first opportunity in web development to demonstrate my knowledge and continue my growth in this ever-changing industry.",
     "address":"Orlando,FL",
     "website":"(321)356-9294",
 
@@ -43,7 +43,7 @@ let resumeData = {
         "specialization":"Full Stack Web Developer",
         "MonthOfPassing":"May",
         "YearOfPassing":"2019",
-        "Achievements":"Coding Bootcamp"
+        "Achievements":"Coding Bootcamp Certificate"
       }
       // ,
       // {
@@ -60,14 +60,14 @@ let resumeData = {
         "specialization":"IT Client Support Specialist",
         "MonthOfLeaving":"January",
         "YearOfLeaving":"2019",
-        "Achievements":"Biligual Representative that helped with the Univision Now app Launch. Assisted customers with billing support for the largest sports organizations in the world such as the NFL, NBA, UFC and Unimas. Provide tier two technical support to customers across various platforms such as ios, android, roku and web. Interacted with clients to report and resolve web and mobile player issues during live events. "
+        "Achievements":"Assist customers with billing support for the largest sports organizations in the world such as the NFL, NBA, and UFC. Provide tier two technical support to customers across various platforms such as ios, android, smart tv’s, gaming consoles of PS4, XBox  and web. Interact with clients to report and resolve web and mobile player issues during live events. Mentored team members to learn processes and responsibilities building a positive environment. Assisted project managers to coordinate a spanish training session for customer representatives in Mexico as third party of my company for upcoming streaming of SOCCO."
       },
       {
         "CompanyName":"Panera Bread",
         "specialization":"Catering Coordinator / Marketing",
         "MonthOfLeaving":"June",
         "YearOfLeaving":"2016",
-        "Achievements":"Managed the catering sales for my own cafe, achieving to reach higher sales each month with an increase sales rate."
+        "Achievements":"Actively supporting management in critical decision-making and event planning initiatives. Apply critical thinking skills toward defining and implementing processes to boost overall operational performance with cafe sales. Attended trainings and seminars to further improve marketing skills"
       }
     ],
     // "skillsDescription":"Sample Skills for display *Not a reflection of my actual abilities*",
